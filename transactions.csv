@@ -1,0 +1,18 @@
+"Date","Description","Original Description","Amount","Transaction Type","Category","Account Name","Labels","Notes"
+"7/30/2019","Expense reversal","Expense reversal","34.99","credit","Bills & Utilities","Cash","70009343923170 Ach_batch ACH_Debit ACH_deposit Reimbursable Tax Related Vacation","cryptmster.api.io"","
+"7/30/2019","Firebase Developer US 4","Firebase Developer US 4","3000.00","credit","Leftover Cash","Cash","ACH_Debit Reimbursable",""
+"7/16/2019","Failed transfer from Bank Account","Failed transfer from Bank Account","34.99","debit","Transfer for Cash Spending","123146547412914","70009343923170 Ach_batch ACH_Debit ACH_deposit Reimbursable Vacation",""
+"7/16/2019","Netspend Prepaid Debit Card","Netspend Prepaid Debit Card","8000.00","credit","Wire transfer","Cash","70009343923170 Ach_batch ACH_deposit","Direct Deposit
+ACH_073972181
+ACH_7009343923170"
+"7/10/2019","Matthew James Sauls Ether scan.io-GTZeFwfp86xfeVCTpv1FDbgnR (M) 27167529","Etherscan.io","5000000.00","credit","Bonus","Cash","Reimbursable Tax Related",""
+"7/04/2019","GrubHub Seamless","Payment to GrubHub Seamless","46.00","debit","Food & Dining","123146547412914","",""
+"7/04/2019","Spearhead Logistics Incorporated","Purchase from Spearhead Logistics Incorporated","34.99","debit","Home Supplies","123146547412914","",""
+"6/12/2019","GrubHub Seamless","Payment to GrubHub Seamless","20.00","debit","Food & Dining","123146547412914","",""
+"6/09/2019","GrubHub Seamless","Payment to GrubHub Seamless","33.00","debit","Food & Dining","123146547412914","",""
+"6/09/2019","GrubHub Seamless","Payment to GrubHub Seamless","18.00","debit","Food & Dining","123146547412914","",""
+"6/06/2019","GrubHub Seamless","Payment to GrubHub Seamless","29.00","debit","Food & Dining","123146547412914","",""
+"6/05/2019","GrubHub Seamless","Payment to GrubHub Seamless","30.00","debit","Food & Dining","123146547412914","",""
+"5/25/2019","XVERIFY, INC,CHICAGO,IL,US","Debit Card signature purchase to XVERIFY, INC,CHICAGO,IL,US","1.00","debit","Fast Food","123146547412914","",""
+"5/17/2019","GrubHub Seamless","Payment to GrubHub Seamless","37.60","debit","Food & Dining","123146547412914","",""
+"5/07/2019","JULI CHIC","Purchase from JULI CHIC","73.80","debit","Restaurants","123146547412914","",""
